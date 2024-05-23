@@ -4,7 +4,7 @@ Guinée/Conakry
 
 Ingénieur Réseaux et Sécurité des systèmes d’informations
 
-FORMATION.............................................................
+FORMATION.........................................................................
 
 2023-2024 Master 2 Réseaux et Sécurité Informatique, en phase de mémoire, à l’Université Nongo Conakry.
 
@@ -29,6 +29,7 @@ Pendant deux ans.
 
 2017	 Assistant Responsable du Laboratoire Informatique- Université Nongo Conakry
 Pendant 3 ans
+
 	Configuration d’équipements Cisco.
 
 	Travaux pratiques : Vlan, Internet, architectures réseaux.
